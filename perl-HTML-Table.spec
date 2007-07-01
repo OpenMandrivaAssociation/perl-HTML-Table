@@ -2,7 +2,7 @@
 
 Summary:	HTML::Table module for perl 
 Name:		perl-%{real_name}
-Version:	2.05
+Version:	2.06
 Release:	%mkrel 1
 License:	GPL or Artistic
 Group:		Development/Perl
