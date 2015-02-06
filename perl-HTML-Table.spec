@@ -3,7 +3,7 @@
 Summary:	HTML::Table module for perl 
 Name:		perl-%{real_name}
 Version:	2.08a
-Release:	3
+Release:	4
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
